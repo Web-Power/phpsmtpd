@@ -7,7 +7,9 @@ Usage
 -----
 
 Run the daemon with the optional port argument, the default port is 3025.
+
     php smtpd.php <port>
+    
 To run the daemon in the background the start.sh shellscript can be used.
 
 License
